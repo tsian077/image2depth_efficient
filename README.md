@@ -3,7 +3,8 @@
 
 * Add the unreal dataset into the NYU depth training data.
 * Change the loss function from edges to sobal 
-* change the DenseNet to Efficient
+* Change the DenseNet to Efficient
+* Change the unsampling2d to pixelshuffle
 
 
 
